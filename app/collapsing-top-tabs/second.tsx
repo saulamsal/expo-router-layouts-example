@@ -1,4 +1,4 @@
-import { useScrollProps } from "@bacons/expo-router-top-tabs";
+import { useScrollProps } from "../components/TopTabs"
 import { Link } from "expo-router";
 import { Animated, StyleSheet, Text, View } from "react-native";
 

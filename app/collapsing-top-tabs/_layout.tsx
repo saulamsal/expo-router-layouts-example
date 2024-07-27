@@ -1,4 +1,4 @@
-import { TopTabs, useScrollProps } from "@bacons/expo-router-top-tabs";
+import { TopTabs, useScrollProps } from "../components/TopTabs"
 import { View, Text, ViewBase } from "react-native";
 
 export const unstable_settings = {
